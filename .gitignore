@@ -1,0 +1,9 @@
+data/
+CodeDraft/
+figure/
+results/
+__pycache__/
+.DS_Store
+vs0318/
+ParticipantSelfCon.csv
+
